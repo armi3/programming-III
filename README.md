@@ -5,5 +5,5 @@
 1. [Ubication test 📈](#Ubication-test-)
 
 # Ubication test 📈
-- 10 short exercises
+- 10 short exercises (PDF with requirements in respective folder)
 - Java
