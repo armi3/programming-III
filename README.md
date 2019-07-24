@@ -1,9 +1,9 @@
-# programming-III
+# Programming III
 🧯 This is a collection of exercises I'm doing for my university programming III course. Java, C, Python, Nodejs and Go will be used.
 
-# table of contents
-1. [ubication test 📈](#ubication-test-)
+# Table of contents
+1. [Ubication test 📈](#Ubication-test-)
 
-# ubication test 📈
+# Ubication test 📈
 - 10 short exercises
 - Java
